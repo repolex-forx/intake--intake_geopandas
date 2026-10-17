@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/intake/intake_geopandas/commit/34b30175ba86f4ce754f4e84d35fa07c91e6db88",
       "git:hexsha": "34b30175ba86f4ce754f4e84d35fa07c91e6db88",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.0"
     },
     {
