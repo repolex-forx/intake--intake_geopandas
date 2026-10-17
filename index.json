@@ -1,0 +1,11 @@
+{
+  "org": "intake",
+  "repo": "intake_geopandas",
+  "versions": [
+    {
+      "commit": "34b30175ba86f4ce754f4e84d35fa07c91e6db88",
+      "tag": "0.4.0",
+      "parsed_at": "2026-10-17T04:15:22.943273+00:00"
+    }
+  ]
+}
